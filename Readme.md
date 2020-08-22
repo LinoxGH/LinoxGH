@@ -1,0 +1,18 @@
+### Hi There!! I'm Linox, also known as ajan_12.
+
+![LinoxGH - Logo](LogoD.png)
+
+#### What do I do?
+- Currently studying for my university entrance exams.
+- In my free time I develop Minecraft plugins.
+- Learning more about AI and machine learning.
+
+#### Check out some of my Spigot plugins!
+*(And some that I have worked on.)*
+- [Slimefun4](https://github.com/TheBusyBiscuit/Slimefun4)
+	- Adds many new mechanics and items, blocks to the game!
+	
+- [MagicalExtremes](https://github.com/LinoxGH/MagicalExtremes)
+	- Adds magical mechanics, wands and spells to the game! Currently W.I.P.
+	
+*P.S I have more other uncontinued or small projects but I didn't see them wortht enough to put in here.*
