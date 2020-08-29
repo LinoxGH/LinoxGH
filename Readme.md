@@ -15,4 +15,13 @@
 - [MagicalExtremes](https://github.com/LinoxGH/MagicalExtremes)
 	- Adds magical mechanics, wands and spells to the game! Currently W.I.P.
 	
+- [TabUpdate](https://github.com/LinoxGH/TabUpdate)
+	- Adds a configurable TAB list with extensive align controls.
+	
+- [PollMutes](https://github.com/LinoxGH/PollMutes)
+	- Adds a command to allow players to temp-mute each other on polls/voting.
+	
+- [SlimefunFix](https://github.com/LinoxGH/SlimefunFix)
+	- An addon for Slimefun4 which lets you to convert broken cscorelib heads into machines.
+	
 *P.S I have more other uncontinued or small projects but I didn't see them wortht enough to put in here.*
