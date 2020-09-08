@@ -13,7 +13,7 @@
 	- Adds many new mechanics and items, blocks to the game!
 	
 - [MoreTools](https://github.com/LinoxGH/MoreTools)
-        - Adds some useful tools to Slimefun plugin. Currently W.I.P.
+	- Adds some useful tools to Slimefun plugin. Currently W.I.P.
 
 - [MagicalExtremes](https://github.com/LinoxGH/MagicalExtremes)
 	- Adds magical mechanics, wands and spells to the game! Currently W.I.P.
