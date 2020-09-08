@@ -25,3 +25,4 @@
 	- An addon for Slimefun4 which lets you to convert broken cscorelib heads into machines.
 	
 *P.S I have more other uncontinued or small projects but I didn't see them wortht enough to put in here.*
+*P.S You can gift me anything from my Steam wishlist. :smiley: https://store.steampowered.com/wishlist/id/LinoxGH/
