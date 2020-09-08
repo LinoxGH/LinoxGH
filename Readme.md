@@ -1,6 +1,6 @@
 ### Hi There!! I'm Linox, also known as ajan_12.
 
-![LinoxGH - Logo](LogoDLR.png)
+![](https://github.com/LinoxGH/LinoxGH/blob/master/LogoD.png)
 
 #### What do I do?
 - Currently studying for my university entrance exams.
