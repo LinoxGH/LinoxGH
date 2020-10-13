@@ -1,6 +1,6 @@
 ### Hi There!! I'm Linox, also known as ajan_12.
 
-![](https://github.com/LinoxGH/LinoxGH/blob/master/LogoD.png)
+![](https://github.com/LinoxGH/LinoxGH/blob/master/LogoDLR.svg)
 
 #### What do I do?
 - Currently studying for my university entrance exams.
@@ -27,6 +27,6 @@
 - [SlimefunFix](https://github.com/LinoxGH/SlimefunFix)
 	- An addon for Slimefun4 which lets you to convert broken cscorelib heads into machines.
 	
-*P.S I have more other uncontinued or small projects but I didn't see them wortht enough to put in here.*
+*P.S I have more other uncontinued or small projects but I didn't see them worthy enough to put in here.*
 
 *P.S You can gift me anything from my Steam wishlist.* :smiley: https://store.steampowered.com/wishlist/id/LinoxGH/
