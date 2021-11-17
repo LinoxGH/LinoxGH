@@ -1,10 +1,12 @@
-### Hi There!! I'm Linox, also known as ajan_12.
+### Hi There!! I'm Linox, aka Deniz Can.
 
 <img align="right" src="https://github.com/LinoxGH/LinoxGH/blob/master/LogoDLR.svg" width="300" height="300">
 
 #### What do I do?
 - In my free time I develop Minecraft plugins.
 - Learning more about AI and machine learning.
+- Studying Computer Science Engineering at Hacettepe University.
+- Learning python and its frameworks such as Django.
 
 #### Check out some of my Spigot plugins!
 *(And some that I have worked on.)*
