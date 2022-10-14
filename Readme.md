@@ -1,6 +1,6 @@
 ### Hi There!! I'm Linox, aka Deniz Can.
 
-<img align="right" src="https://github.com/LinoxGH/LinoxGH/blob/master/LogoDLR.svg" width="300" height="300">
+<img align="right" src="https://github.com/LinoxGH/LinoxGH/blob/master/NewLogo.png" width="300" height="300">
 
 #### What do I do?
 - In my free time I develop Minecraft plugins.
