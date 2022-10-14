@@ -3,10 +3,10 @@
 <img align="right" src="https://github.com/LinoxGH/LinoxGH/blob/master/NewLogo.png" width="300" height="300">
 
 #### What do I do?
-- In my free time I develop Minecraft plugins.
+- Freelancing at Fiverr.
 - Learning more about AI and machine learning.
 - Studying Computer Science Engineering at Hacettepe University.
-- Learning python and its frameworks such as Django.
+- Working for 6b6t.org.
 
 #### Check out some of my Spigot plugins!
 *(And some that I have worked on.)*
@@ -16,5 +16,3 @@
 - [CratesEnhanced](https://github.com/LinoxGH/CratesEnhanced)
 	- Adds lightweight and highly customizable crates to your server.
 
-- [WeaponryEnhanced](https://github.com/LinoxGH/WeaponryEnhanced)
-	- Adds weapons and armors to the game! Currently W.I.P
