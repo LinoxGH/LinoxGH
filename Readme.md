@@ -6,7 +6,6 @@
 - Freelancing at Fiverr.
 - Learning more about AI and machine learning.
 - Studying Computer Science Engineering at Hacettepe University.
-- Working for 6b6t.org.
 
 #### Check out some of my Spigot plugins!
 *(And some that I have worked on.)*
