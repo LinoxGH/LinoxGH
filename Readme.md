@@ -4,7 +4,6 @@
 
 #### What do I do?
 - Working for 6b6t.
-- Working for Jeracraft.
 - Translating documents between Turkish and English for LearnERA.
 - Freelancing at Fiverr.
 - Learning more about AI and machine learning.
