@@ -3,8 +3,7 @@
 <img align="right" src="https://github.com/LinoxGH/LinoxGH/blob/master/NewLogo.png" width="300" height="300">
 
 #### What do I do?
-- Working for 6b6t.
-- Freelancing at Fiverr.
+- Learning Spanish.
 - Learning more about AI and machine learning.
 - Studying Computer Science Engineering at Hacettepe University.
 
