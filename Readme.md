@@ -12,6 +12,6 @@
 - [Slimefun4](https://github.com/Slimefun/Slimefun4)
 	- Adds many new mechanics and items, blocks to the game!
 	
-- [CratesEnhanced](https://github.com/LinoxGH/CratesEnhanced)
+- [EnhancedCrates](https://github.com/LinoxGH/EnhancedCrates)
 	- Adds lightweight and highly customizable crates to your server.
 
